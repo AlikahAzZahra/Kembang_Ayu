@@ -1,0 +1,386 @@
+:root {
+    --color-1: rgba(225, 100, 99, 1);
+    --color-2: rgba(182, 110, 122, 1);
+    --color-3: rgba(220, 137, 136, 1);
+    --color-4: rgba(244, 196, 195, 1);
+    --color-5: rgba(206, 175, 180, 1);
+    --color-6: rgba(255, 255, 255, 1);
+    --color-7: rgba(20, 20, 20, 1);
+    --color-8: rgba(27, 27, 27, 1);
+    --color-sec: rgba(43, 55, 81, 1);
+    --header-70-font-family: "Inter", Helvetica;
+    --header-70-font-size: 70px;
+    --header-70-font-style: normal;
+    --header-70-font-weight: 400;
+    --header-70-letter-spacing: 0px;
+    --header-70-line-height: 89.99999761581421%;
+    --primer: rgba(255, 247, 248, 1);
+    --sub-header-40-font-family: "Inter", Helvetica;
+    --sub-header-40-font-size: 40px;
+    --sub-header-40-font-style: normal;
+    --sub-header-40-font-weight: 400;
+    --sub-header-40-letter-spacing: 0px;
+    --sub-header-40-line-height: 89.99999761581421%;
+    --text-24-font-family: "Inter", Helvetica;
+    --text-24-font-size: 24px;
+    --text-24-font-style: normal;
+    --text-24-font-weight: 400;
+    --text-24-letter-spacing: 0px;
+    --text-24-line-height: 89.99999761581421%;
+  }  
+
+.all-service {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .all-service .div-2 {
+    background-color: #ffffff;
+    height: 3329px;
+    position: relative;
+    width: 1280px;
+  }
+  
+  .all-service .overlap-group {
+    height: 1662px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 1280px;
+  }
+  
+  .all-service .service {
+    background-color: #ffffff;
+    height: 832px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+  }
+  
+  .all-service .our-service-wrapper {
+    height: 74px;
+    left: 67px;
+    position: absolute;
+    top: 69px;
+    width: 352px;
+  }
+  
+  .all-service .our-service-instance {
+    width: unset !important;
+  }
+  
+  .all-service .design-component-instance-node {
+    color: #000000 !important;
+  }
+  
+  .all-service .p {
+    color: var(--color-7);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 832px;
+    left: 640px;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    text-align: justify;
+    top: -1px;
+    width: 574px;
+  }
+  
+  .all-service .group-2 {
+    height: 542px;
+    left: 113px;
+    position: absolute;
+    top: 193px;
+    width: 442px;
+  }
+  
+  .all-service .SPA-treatment-min {
+    height: 240px;
+    left: 1px;
+    position: absolute;
+    top: 338px;
+    width: 438px;
+  }
+  
+  .all-service .desain-tanpa-judul-18-2 {
+    background-image: url(./desain-tanpa-judul-18-2-2.png) !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .all-service .service-all {
+    background-color: #ffffff;
+    height: 832px;
+    left: 0;
+    position: absolute;
+    top: 830px;
+    width: 1280px;
+  }
+  
+  .all-service .group-3 {
+    height: 535px;
+    left: 113px;
+    position: absolute;
+    top: 149px;
+    width: 440px;
+  }
+  
+  .all-service .hair-treatment-wrapper {
+    height: 209px;
+    left: 0;
+    position: absolute;
+    top: 326px;
+    width: 442px;
+  }
+  
+  .all-service .hair-treatment {
+    height: 174px;
+    left: 1px;
+    position: absolute;
+    top: 17px;
+    width: 438px;
+  }
+  
+  .all-service .desain-tanpa-judul-15-2 {
+    background-image: url(./desain-tanpa-judul-15-2-3.png) !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .all-service .the-goal-is-to {
+    color: var(--color-7);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 832px;
+    left: 635px;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    text-align: justify;
+    top: -2px;
+    width: 580px;
+  }
+  
+  .all-service .service-2 {
+    background-color: #ffffff;
+    height: 832px;
+    left: 0;
+    position: absolute;
+    top: 1665px;
+    width: 1280px;
+  }
+  
+  .all-service .group-4 {
+    height: 483px;
+    left: 108px;
+    position: absolute;
+    top: 175px;
+    width: 452px;
+  }
+  
+  .all-service .nails-choose {
+    height: 147px;
+    left: 3px;
+    position: absolute;
+    top: 333px;
+    width: 437px;
+  }
+  
+  .all-service .desain-tanpa-judul-instance {
+    background-image: url(./desain-tanpa-judul-16-3.png) !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .all-service .footer {
+    background: linear-gradient(
+      180deg,
+      rgb(241, 235, 230) 0%,
+      rgb(202, 181, 163) 10.17%,
+      rgb(163, 128, 98) 21.67%,
+      rgb(112, 83, 58) 54.92%,
+      rgb(60, 37, 17) 100%
+    );
+    background-color: transparent;
+    height: 832px;
+    left: 0;
+    position: absolute;
+    top: 2497px;
+    width: 1280px;
+  }
+  
+  .all-service .text-wrapper-3 {
+    color: var(--color-6);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 45px;
+    left: 482px;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    text-align: justify;
+    top: 750px;
+    width: 317px;
+  }
+  
+  .all-service .group-5 {
+    height: 597px;
+    left: 70px;
+    position: absolute;
+    top: 117px;
+    width: 1165px;
+  }
+  
+  .all-service .text-wrapper-4 {
+    color: #fff7f8;
+    font-family: "Dancing Script-Bold", Helvetica;
+    font-size: 70px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .all-service .jl-marunda-makmur-RT {
+    color: var(--color-6);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    text-align: justify;
+    top: 120px;
+    width: 353px;
+  }
+  
+  .all-service .group-6 {
+    height: 344px;
+    left: 418px;
+    position: absolute;
+    top: 19px;
+    width: 154px;
+  }
+  
+  .all-service .about-service {
+    color: var(--color-6);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 72px;
+    position: absolute;
+    text-align: justify;
+    top: 74px;
+    width: 152px;
+  }
+  
+  .all-service .group-7 {
+    height: 74px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 151px;
+  }
+  
+  .all-service .our-service-2 {
+    height: 74px;
+    position: relative;
+  }
+  
+  .all-service .our-service-3 {
+    color: var(--color-6);
+    font-family: "Cormorant Garamond-Bold", Helvetica;
+    font-size: 35px;
+    font-weight: 700;
+    height: 74px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 38.5px;
+    position: absolute;
+    top: -1px;
+    width: 151px;
+  }
+  
+  .all-service .group-8 {
+    height: 506px;
+    left: 604px;
+    position: absolute;
+    top: 19px;
+    width: 252px;
+  }
+  
+  .all-service .spa-treatment-hair {
+    color: var(--color-6);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 72px;
+    position: absolute;
+    text-align: justify;
+    top: 74px;
+    width: 250px;
+  }
+  
+  .all-service .group-9 {
+    height: 74px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 248px;
+  }
+  
+  .all-service .our-service-4 {
+    color: var(--color-6);
+    font-family: "Cormorant Garamond-Bold", Helvetica;
+    font-size: 35px;
+    font-weight: 700;
+    height: 74px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 38.5px;
+    position: absolute;
+    top: -1px;
+    width: 248px;
+  }
+  
+  .all-service .group-10 {
+    height: 578px;
+    left: 888px;
+    position: absolute;
+    top: 19px;
+    width: 275px;
+  }
+  
+  .all-service .green-house-boutique {
+    color: var(--color-6);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 72px;
+    position: absolute;
+    text-align: justify;
+    top: 74px;
+    width: 273px;
+  }
+  
